@@ -3,7 +3,7 @@
 # Steve Scicluna
 # 22 May 2019
 
-# Load software packages
+# Load packages
         library(shiny)
         library(leaflet)
         library(RColorBrewer)
